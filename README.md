@@ -100,7 +100,7 @@ PvP-focused module inheriting Rogue Lineage's combat systems, optimized for aren
 ```lua
 pcall(function()
     loadstring(game:HttpGet(
-        "https://raw.githubusercontent.com/heisenburgah/HYDROXIDE/refs/heads/main/loader.lua",
+        "https://raw.githubusercontent.com/Gewoonboefman/HYDROXIDE/refs/heads/main/loader.lua",
         true
     ))()
 end)
