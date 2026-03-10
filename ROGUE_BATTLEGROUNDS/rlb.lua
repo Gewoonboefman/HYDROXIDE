@@ -211,7 +211,7 @@ if game.PlaceId == 100010170789226 then
     end)
 
     local is_gaia = game.PlaceId == 100010170789226;
-    local is_khei = game.PlaceId == 3541987450 or game.PlaceId == 14341521240;
+    local is_khei = game.PlaceId == 100010170789226 or game.PlaceId == 100010170789226;
 
     local updatePlayerLabel, getPlayerColor
     local last_area_restore = nil
